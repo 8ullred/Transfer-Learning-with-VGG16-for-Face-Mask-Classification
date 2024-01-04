@@ -25,3 +25,5 @@ Upon completion of training and testing, the model achieved an accuracy of appro
 Feel free to explore the code and contribute to the improvement of the face mask detection model!
 
 :P
+
+I added this explnation to work as the collaborator.
