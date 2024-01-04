@@ -23,3 +23,5 @@ Model Performance
 Upon completion of training and testing, the model achieved an accuracy of approximately 80% and a loss of 0.60. Continuous efforts are being made to enhance the model's performance.
 
 Feel free to explore the code and contribute to the improvement of the face mask detection model!
+
+:P
