@@ -8,7 +8,7 @@ This repository contains a model based on the VGG16 pretrained model designed fo
 
 Datasets
 
-We used our in-house dataset for training, comprising of thousands of images to be used for training and testing purposes. It contains many mixed images of people with and without masks on so that the AI can reliably identify whether someone is wearing a mask or not. To improve on this, we also inserted a few images that contained people wearing a mask, albeit incorrectly; these images serve as more useful training for the AI to more accurately identify whether or not someone is wearing a mask, not wearing a mask, or wearing a mask incorrectly. 
+We used our in-house dataset for training, comprising of thousands of images to be used for training and testing purposes. It contains many mixed images of people with and without masks on so that the AI can reliably identify whether someone is wearing a mask or not. To improve on this, we also inserted a few images that contained people wearing a mask, albeit incorrectly; these images serve as more useful training for the AI to more accurately identify whether or not someone is wearing a mask, not wearing a mask, or wearing a mask incorrectly. The datasets are available in the shared file named 'Datasets' on GitHub.
 
 Model Architecture
 
