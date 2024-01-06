@@ -13,9 +13,10 @@ We used our in-house dataset for training, comprising of thousands of images to 
 
 Model Architecture
 
-The Convolutional Neural Network (CNN) is implemented using the pretrained VGG16 model, but using a different combination of layers to achieve the correct outcome. The architecture incorporates various layers such as Dropout, Flatten, and Dense layers. Additionally, there were many different optimizers used to help with the assessment of images. This combination allows the model to effectively process images and make accurate predictions.
+The Convolutional Neural Network (CNN) is implemented using the pretrained VGG16 model (on ImageNet), but using a different combination of layers to achieve the correct outcome. The architecture incorporates various layers such as Dropout, Flatten, and Dense layers. Additionally, there were many different optimizers used to help with the assessment of images [name the exact optimizer that you used for the optimization]. This combination allows the model to effectively process images and make accurate predictions. 
 
 Training and Test Results
+[update the training and test results and the plots if applicable]
  
 To Be Added
 
@@ -25,6 +26,4 @@ Upon completion of training and testing, the model achieved an accuracy of appro
 
 Feel free to explore the code and contribute to the improvement of the face mask detection model!
 
-:P
 
-I added this explnation to work as the collaborator.
