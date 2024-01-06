@@ -1,4 +1,4 @@
-# Transfer-Learning-with-VGG16-for-Face-Mask-Classification for Three Classes of Masj, No Maks and occluded Mask
+# Transfer-Learning-with-VGG16-for-Face-Mask-Classification for Three Classes of Mask, No Mask and occluded Mask
 
 !!Face Mask Detection Model!!
 
